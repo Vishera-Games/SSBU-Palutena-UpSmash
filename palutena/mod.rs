@@ -5,6 +5,7 @@ use smash::*;
 use smash::lua2cpp::L2CFighterCommon;
 use acmd::{acmd, acmd_func};
 
+//This was my first rust mod I didn't know how to format variables lol
 static mut _ZPOS1 : f32 = 0.0;
 static mut _ZPOS2 : f32 = 0.0;
 static mut _ZPOS3 : f32 = 0.0;
